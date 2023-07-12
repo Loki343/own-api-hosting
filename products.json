@@ -1,0 +1,74 @@
+[
+  {
+    "name": "iphone12",
+    "price": 150000,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone12 pro",
+    "price": 120000,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone14",
+    "price": 170000,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "note 22",
+    "price": 160000,
+    "feature": true,
+    "company": "samsung"
+  },
+  {
+    "name": "S23 Ultra",
+    "price": 100000,
+    "feature": true,
+    "company": "samsung"
+  },
+  {
+    "name": "M12 pro",
+    "price": 250000,
+    "feature": true,
+    "company": "samsung"
+  },
+  {
+    "name": "note 11",
+    "price": 210000,
+    "feature": true,
+    "company": "mi"
+  },
+  {
+    "name": "9 Pro Max",
+    "price": 190000,
+    "feature": true,
+    "company": "mi"
+  },
+  {
+    "name": "11X ultra",
+    "price": 180000,
+    "feature": true,
+    "company": "mi"
+  },
+  {
+    "name": "ultra book 5",
+    "price": 120000,
+    "feature": true,
+    "company": "dell"
+  },
+  {
+    "name": "Slim book",
+    "price": 110000,
+    "feature": true,
+    "company": "dell"
+  },
+  {
+    "name": "latitude 3",
+    "price": 190000,
+    "feature": true,
+    "company": "dell"
+  }
+]
